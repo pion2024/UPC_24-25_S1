@@ -3,3 +3,6 @@ Des corrections personnelles de TDs notamment pour MC1.
 Méfiez-vous parce qu'il y aurait peut-être des erreurs et typos de ma part. Dans ce cas, n'hésitez pas à me signaler.  
 Je vous remercie.  
 
+# Release 0.1.1 of 18 Oct 2024
+Corrections d'indentation et d'erreurs.  
+
