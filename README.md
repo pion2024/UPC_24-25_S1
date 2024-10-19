@@ -12,6 +12,5 @@ You can view the full license [here](./LICENSE).
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-## Release 0.1.1 of 18 Oct 2024
-Corrections d'indentation et d'erreurs.  
+
 
