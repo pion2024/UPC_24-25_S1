@@ -3,6 +3,7 @@ Ici se trouvent mes corrections personnelles de TDs, notamment pour le cours de 
 Ce répertoire a été créé dans un premier temps pour me familiariser avec l'utilisation de GitHub et LaTeX. Pour l'instant, je suis encore débutant dans ces deux domaines, donc si vous avez des conseils ou des critiques, je suis preneur.  
 Vous êtes libre d'utiliser les fichiers archivés ici, mais faites attention, car ils pourraient contenir des erreurs ou des coquilles de ma part. Dans ce cas, n'hésitez pas à me les signaler.
 Merci d'avance !  
+Ce projet est sous licence CC BY 4.0. Vous pouvez donc partager les documents sans m'en informer, mais toute modification doit être indiquée.
 
 ## License
 
